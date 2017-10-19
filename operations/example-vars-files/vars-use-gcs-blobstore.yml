@@ -1,0 +1,6 @@
+blobstore_access_key_id: accesskey1
+blobstore_secret_access_key: secretaccesskey1
+app_package_directory_key: example-apps-dir
+buildpack_directory_key: example-buildpacks-dir
+droplet_directory_key: example-droplets-dir
+resource_directory_key: example-resources-dir
